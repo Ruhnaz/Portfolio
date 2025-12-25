@@ -1,12 +1,12 @@
 # 👨‍💻 Web Developer | Laravel & WordPress
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Laravel+Specialist;WordPress+Developer;Frontend+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Laravel+Developer;WordPress+Developer;Frontend+Developer)](https://git.io/typing-svg)
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruhnaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruhnaz-pathan-a48224189)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruhnazpathan32@gmail.com)
 
 </div>
 
@@ -48,7 +48,7 @@ I'm a passionate web developer with expertise in **Laravel** and **WordPress** d
 
 ### **JavaScript Frameworks**
 <div>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactJs">
   <img src="https://img.shields.io/badge/AngularJS-DD0031?style=flat-square&logo=angularjs&logoColor=white" alt="AngularJS">
 </div>
 
@@ -86,15 +86,14 @@ I'm a passionate web developer with expertise in **Laravel** and **WordPress** d
 
 
 ## 📁 Project Showcase
-
 ### **Practice Projects & Demos**
-| Project Type | Description | Technologies Used |
-|-------------|-------------|------------------|
-| **Laravel Blog** | Complete blogging platform with admin panel | Laravel, MySQL, Bootstrap |
-| **E-commerce Demo** | Online store with product management | Laravel, Stripe API, JavaScript |
-| **WordPress Custom Theme** | Responsive multipurpose theme | PHP, HTML5, CSS3, JavaScript |
-| **Task Manager** | Task tracking application | React.js, Local Storage |
-| **Portfolio Website** | Personal portfolio site | HTML, CSS, JavaScript |
+| Project | Description | Technologies Used | GitHub Link |
+|---------|-------------|------------------|-------------|
+| **Dhobi Express** | Laundry website |  Bootstrap , HTML5, CSS3 | [🔗 View Code](https://github.com/Ruhnaz/dhobiexpress) |
+| **DryVeggies** | Food Product Website | Bootstrap , HTML5, CSS3  | [🔗 View Code](https://github.com/Ruhnaz/Dryveggies) |
+| **Sale Drive** |  Laravel CRM Project | Laravel, Mysql , Jquery  | [🔗 View Code](https://github.com/Ruhnaz/saledrive) |
+| **Survey Plugin** | Wordpress Survey Project | Wordpress  | [🔗 View Code](https://github.com/Ruhnaz/wordpress-survey-plugin) |
+
 
 ### **Learning Projects**
 - **API Integration** - Third-party API consumption examples
