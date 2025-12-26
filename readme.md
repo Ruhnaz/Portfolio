@@ -86,13 +86,14 @@ I'm a passionate web developer with expertise in **Laravel** and **WordPress** d
 
 
 ## 📁 Project Showcase
-### **Practice Projects & Demos**
+### **Selected Projects**
 | Project | Description | Technologies Used | GitHub Link |
 |---------|-------------|------------------|-------------|
 | **Dhobi Express** | Laundry website |  Bootstrap , HTML5, CSS3 | [🔗 View Code](https://github.com/Ruhnaz/dhobiexpress) |
 | **DryVeggies** | Food Product Website | Bootstrap , HTML5, CSS3  | [🔗 View Code](https://github.com/Ruhnaz/Dryveggies) |
 | **Sale Drive** |  Laravel CRM Project | Laravel, Mysql , Jquery  | [🔗 View Code](https://github.com/Ruhnaz/saledrive) |
 | **Survey Plugin** | Wordpress Survey Project | Wordpress  | [🔗 View Code](https://github.com/Ruhnaz/wordpress-survey-plugin) |
+
 
 
 ### **Learning Projects**
